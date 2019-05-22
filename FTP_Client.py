@@ -1,3 +1,4 @@
+import os
 from socket import *
 #具体功能
 class FtpClient:
